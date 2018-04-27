@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1524530325 source:c:\users\alumno\desktop\abm_empleados\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1524521677 source:c:\users\alumno\desktop\abm_empleados\abm_empleados.c
+
+1524531931 source:c:\users\carolina priscila\downloads\laboratorio-programacion1g-master\abm_empleados\abm_empleados.c
+
+1524819248 source:c:\users\carolina priscila\downloads\laboratorio-programacion1g-master\abm_empleados\main.c
+	<stdio.h>
+	<stdlib.h>
+
